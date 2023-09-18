@@ -5,5 +5,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
 @ResponseBody
+@Deprecated
 public class HomeController {
 }
